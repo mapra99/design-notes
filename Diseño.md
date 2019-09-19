@@ -298,3 +298,12 @@ La jerarquía consiste en definir el orden de importancia de los elementos visua
 
   ![](.\etc\jerarquia6.PNG)
 
+- Espacio en Blanco
+
+  ![](.\etc\jerarquia7.PNG)
+
+  Recordar que el espacio en blanco tambien se puede usar para crear unidades y grupos (Gestalt).
+
+  ![](.\etc\jerarquia8.PNG)
+
+  
