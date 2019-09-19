@@ -273,3 +273,4 @@ Ritmo es un cambio predecible en la imagen. A nivel de diseño el uso del ritmo 
 En diseño web, la creación de contenedores con una disposición que se repite da la sensación de ritmo, el usuario empieza qué conforma una unidad y con qué puede asociarse.
 
 ![](.\etc\ritmo1.PNG)
+
