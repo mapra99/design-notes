@@ -266,3 +266,10 @@ El usuario tiende a encontrarse primero con la zona superior izquierda de la ima
 
 ![](.\etc\patrones1.PNG)
 
+##### Ritmo
+
+Ritmo es un cambio predecible en la imagen. A nivel de diseño el uso del ritmo le permite al usuario tener seguridad de lo que va a encontrar más adelante.
+
+En diseño web, la creación de contenedores con una disposición que se repite da la sensación de ritmo, el usuario empieza qué conforma una unidad y con qué puede asociarse.
+
+![](.\etc\ritmo1.PNG)
