@@ -262,3 +262,7 @@ Los tercios no tienen que ser precisos, sólo es una insinuación. En fotografí
 
 ##### Patrones de Lectura
 
+El usuario tiende a encontrarse primero con la zona superior izquierda de la imagen, y va observando de izquierda a derecha, luego baja y va perdiendo la atención.
+
+![](.\etc\patrones1.PNG)
+
