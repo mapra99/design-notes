@@ -306,4 +306,7 @@ La jerarquía consiste en definir el orden de importancia de los elementos visua
 
   ![](.\etc\jerarquia8.PNG)
 
-  
+### Formato
+
+
+
