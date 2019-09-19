@@ -244,3 +244,21 @@ El cerebro trata de simplificar todo cuando ve algo para entenderlo. Los princip
 
 #### Movimiento
 
+#### Estructuras Naturales
+
+##### Ley de Tercios
+
+Si no hay ningún elemento visual en una imagen, el ojo tiende a mirar los puntos formados por una cuadrícula que divide la imagen en tercios.
+
+![](.\etc\tercios1.PNG)
+
+En el diseño, se pueden aprovechar estos puntos principales para ubicar ahí los elementos que le dan más fuerza al concepto.
+
+![](.\etc\tercios2.PNG)
+
+Los tercios no tienen que ser precisos, sólo es una insinuación. En fotografía, los tercios es la primera herramienta con la que se enfrenta la composición.
+
+![](.\etc\tercios3.PNG)
+
+##### Patrones de Lectura
+
