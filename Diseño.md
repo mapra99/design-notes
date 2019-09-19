@@ -274,3 +274,27 @@ En diseño web, la creación de contenedores con una disposición que se repite 
 
 ![](.\etc\ritmo1.PNG)
 
+#### Jerarquía Visual
+
+La jerarquía consiste en definir el orden de importancia de los elementos visuales, los cuales deben estar de la información
+
+![](.\etc\jerarquia1.PNG)
+
+![](.\etc\jerarquia2.PNG)
+
+##### Herramientas de Jerarquización
+
+![](.\etc\jerarquia3.PNG)
+
+- Asignar Tamaños
+
+  ![](.\etc\jerarquia4.PNG)
+
+- Asignar Pesos Tipográficos
+
+  ![](.\etc\jerarquia5.PNG)
+
+- Asignar Pesos con Color y Saturación
+
+  ![](.\etc\jerarquia6.PNG)
+
