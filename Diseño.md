@@ -328,3 +328,20 @@ La representación de la imagen está basada en pigmentos, son la base de la cre
 
 La imagen digital se basa en la luz y su intensidad, se trata de manipular la luz que transmite una pantalla.
 
+##### Mapas de Bits
+
+Los mapas de Bits son retículas gigantes formadas a partir de celdas. Cada celda es un píxel, un cuadrito que tiene una intensidad de luz de tres colores: rojo, verde y azul. La proporción de cada uno de los tres colores base genera el color del pixel, y la conformación de muchos pixeles cada uno de determinado color forma el mapa de bits. 
+
+![](.\etc\imagenes2.PNG)
+
+La Resolución de una imagen es la densidad de la retícula de píxeles. Se mide en la PPP / DPI (Pixeles por Pulgada): La cantidad de Pixeles que hay en 1 Pulgada. La resolución de una imagen se debe definir de acuerdo al uso que se le va a dar. El objetivo siempre es tener una resolución tal que los pixeles no sean fácilmente visibles por el espectador.
+
+- Uso para Impresión: 300 DPI
+- Uso para Pantallas: 144 DPI
+
+En general, pantallas más grandes permiten resoluciones más pequeñas y viceversa.
+
+##### Imágenes Vectoriales
+
+Las imágenes vectoriales están formadas por elementos que están basados en una formulación matemática que permiten ser renderizados cada vez que se realiza una transformación (zoom, trasladar, rotar, etc.).
+
