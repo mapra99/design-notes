@@ -363,5 +363,20 @@ Otra categorización que está más relacionada con la forma en la que se percib
 
 ![](.\etc\imagenes6.PNG)
 
+#### Sistemas de Color
 
+Son los modelos en los que se construyen los colores.
 
+- CMYK (Cian, Magenta, Amarillo, Key): Se selecciona si es para uso de impresión. Se llama modelo de mezcla substractiva porque, como se piensa en uso de impresión, el color base es blanco, y añadir valores del modelo le resta al color base.
+
+- RGB (Rojo, Verde, Azul): Se selecciona si es para uso digital. Se llama modelo de mezcla aditiva porque, como se piensa en uso digital, el color base es negro, y añadir valores del modelo le suma al color base.
+
+- HSB (Matiz, Saturación, Brillo). Es una variación del RGB más entendible a la hora de manipular el color.
+
+  ![](.\etc\imagenes7.PNG)
+
+  Matiz: Similar a Color
+
+  Saturación: Qué tan potente es el color
+
+  Brillo: Pasa de brillante a claro
