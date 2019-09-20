@@ -454,3 +454,14 @@ Es recomendable también incluir una escala de grises. Para lograrla se pueden t
 Resultado:
 
 ![](.\etc\imagenes14.PNG)
+
+#### Psicología del Color
+
+Se trata de cómo un color puede evocar emociones. No debe tomarse tan literal.
+
+![](.\etc\imagenes15.PNG)
+
+![](.\etc\imagenes16.PNG)
+
+![](.\etc\imagenes17.PNG)
+
