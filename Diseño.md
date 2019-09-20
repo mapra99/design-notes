@@ -440,4 +440,17 @@ La mejor forma de elegir variaciones de color es observando las variaciones real
 
 ![](.\etc\imagenes11.PNG)
 
- 
+Una recomendación para esquematizar las variaciones del color es:
+
+- A partir del color Principal, aumentar la saturación y disminuir el brillo para tener un color más oscuro.
+- A partir del color Principal, aumentar el brillo y disminuir la saturación para tener un color más claro.
+
+![](.\etc\imagenes12.JPG)
+
+Es recomendable también incluir una escala de grises. Para lograrla se pueden tomar los valores extremos y reducir la saturación. Una vez reducida la saturación se puede reducir el brillo para tener una escala de grises asociada al color principal.
+
+![](.\etc\imagenes13.PNG)
+
+Resultado:
+
+![](.\etc\imagenes14.PNG)
