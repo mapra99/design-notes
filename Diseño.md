@@ -465,3 +465,26 @@ Se trata de cómo un color puede evocar emociones. No debe tomarse tan literal.
 
 ![](.\etc\imagenes17.PNG)
 
+#### Errores Comunes en el Uso del Color
+
+- Vibración
+
+  Se produce al enfrentar colores complementarios.
+
+  ![](.\etc\imagenes18.JPG)
+
+  Solución: Reducir el brillo de uno de los dos colores.
+
+  ![](.\etc\imagenes19.JPG)
+
+- Cantidad de Color
+
+  ![](.\etc\imagenes20.JPG)
+
+  Solución: Reducir la cantidad, aprovechar la neutralidad del blanco y los grises para dirigir la atención a lo importante.
+
+  ![](.\etc\imagenes21.JPG)
+
+- Contexto
+
+  Es bueno tratar de seguir la tendencia de colores que se suele usar para ciertas aplicaciones, como el rojo para notificaciones o cosas de urgencia, o errores de input, etc.
