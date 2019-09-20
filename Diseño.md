@@ -380,3 +380,43 @@ Son los modelos en los que se construyen los colores.
   Saturación: Qué tan potente es el color
 
   Brillo: Pasa de brillante a claro
+
+  El modelo HSB está hecho para modificar los colores que se establecieron con CMYK o RGB.
+
+#### Paletas de Color
+
+![](.\etc\imagenes8.PNG)
+
+- Monocromático
+
+  Variaciones de Saturación o Brillo sobre un mismo matiz. Cae muy bien
+
+- Análogo
+
+  Colores cercanos en el círculo cromático
+
+- Complementario
+
+  Colores opuestos en el círculo cromático. Es pesada, agresiva, contrastante.
+
+- Complementaria Dividida
+
+  Alternativa para disminuir el contraste de la complementario. Consiste en tomar dos colores en el círculo y elegir otro opuesto al punto medio de los dos elegidos.
+
+- Triada
+
+  Triángulo Equilátero en el Círculo Cromático. Funcionan bien, adecuado contraste.
+
+- Doble Complementario
+
+  Otra Alternativa para disminuir el contraste del complementario. Consiste en tomar dos complementarios cercanos.
+
+Estos métodos de paletas funcionan porque son frecuentes en la naturaleza.
+
+##### Herramientas para Paletas de Color
+
+- [Adobe Color](https://color.adobe.com/)
+- [Color Hunt](https://colorhunt.co/)
+- [COLOURlovers](https://www.colourlovers.com/)
+- [coolors](https://coolors.co/)
+
