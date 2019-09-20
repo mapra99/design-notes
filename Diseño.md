@@ -316,3 +316,15 @@ Las retículas son compartimientos que se trazan para definir la distribución d
 
 ![](.\etc\formato1.PNG)
 
+### Imágenes Análogas y Digitales
+
+![](.\etc\imagenes1.PNG)
+
+#### Imagen Análoga
+
+La representación de la imagen está basada en pigmentos, son la base de la creación de la imagen.
+
+#### Imagen Digital
+
+La imagen digital se basa en la luz y su intensidad, se trata de manipular la luz que transmite una pantalla.
+
