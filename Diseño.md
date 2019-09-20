@@ -420,3 +420,24 @@ Estos métodos de paletas funcionan porque son frecuentes en la naturaleza.
 - [COLOURlovers](https://www.colourlovers.com/)
 - [coolors](https://coolors.co/)
 
+#### Color en Interfaces
+
+En las interfaces la clave en el color está en:
+
+![](.\etc\imagenes9.PNG)
+
+Cuando una interfaz presenta un nivel de interacción bajo, la cantidad de colores en la interfaz debería ser alto. Un nivel de interacción bajo puede ser una página estática en la que el usuario sólo interactúa con pocos textos y títulos descriptivos, y hay pocas acciones disponibles. Un ejemplo es una Landing Page.
+
+Un nivel de interacción alto es cuando el usuario tiene que interactuar con muchos elementos en la interfaz. Podría ser un dashboard, en el que hay demasiados botones, texto, gráficas y valores que el usuario debe observar; en esos casos el manejo del color debe ser mucho más medido.
+
+##### Variaciones de Color
+
+Las variaciones de un mismo color son una alternativa muy bien recibida en interfaces, siendo el color principal el color representativo de marca o del concepto que se quiere transmitir.
+
+![](.\etc\imagenes10.PNG)
+
+La mejor forma de elegir variaciones de color es observando las variaciones reales que puede haber sobre una superficie, dadas ciertas condiciones de luz y sombras.
+
+![](.\etc\imagenes11.PNG)
+
+ 
