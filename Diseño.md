@@ -310,3 +310,9 @@ La jerarquía consiste en definir el orden de importancia de los elementos visua
 
 El formato es la medida del espacio de trabajo que va a tener el proyecto. En posters se trabajan tamaños de impresión A1 - A6, B1 - B6. En diseño web entra el tema de responsividad y tamaños de dispositivos. Se debe tener en cuenta desde el bocetaje, para tener en cuenta constraints del espacio de trabajo.
 
+### Retículas y guías
+
+Las retículas son compartimientos que se trazan para definir la distribución de los elementos en el espacio de trabajo.
+
+![](.\etc\formato1.PNG)
+
