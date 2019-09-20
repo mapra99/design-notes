@@ -345,3 +345,5 @@ En general, pantallas más grandes permiten resoluciones más pequeñas y viceve
 
 Las imágenes vectoriales están formadas por elementos que están basados en una formulación matemática que permiten ser renderizados cada vez que se realiza una transformación (zoom, trasladar, rotar, etc.).
 
+![](.\etc\imagenes3.PNG)
+
