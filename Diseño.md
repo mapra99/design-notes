@@ -347,3 +347,21 @@ Las imágenes vectoriales están formadas por elementos que están basados en un
 
 ![](.\etc\imagenes3.PNG)
 
+### Color
+
+El color en la naturaleza se entiende como el rebote de rayos de luz que chocan en un objeto y entran al ojo del observador. La luz, al entenderse como una onda electromagnética, puede oscilar en un rango de longitud de onda; este rango es el espectro electromagnético.
+
+![](.\etc\imagenes4.PNG)
+
+El espectro electromagnético muestra todas las diferentes longitudes de onda que puede tener una onda de este tipo. En un rango dentro de este espectro se encuentran las longitudes de onda que se pueden percibir visualmente y se conoce como espectro visible. En el espectro visible están todos los colores que se pueden observar con el ojo humano. Si se toma el espectro visible y se hace un círculo con esa franja se forma el círculo cromático.
+
+![](.\etc\imagenes5.PNG)
+
+En el círculo cromático se pueden determinar tres colores denominados primarios: Rojo, Amarillo y Azul. A partir de ellos se pueden construir los demás colores. Si se toman colores primarios consecutivos y se mezclan, se obtienen los secundarios: Verde, Naranja y Morado.
+
+Otra categorización que está más relacionada con la forma en la que se percibe el color es por su temperatura. Importante tener en cuenta: Los colores en sí no tienen temperatura. Su temperatura viene dada por lo que tiene alrededor.
+
+![](.\etc\imagenes6.PNG)
+
+
+
