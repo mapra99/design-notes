@@ -488,3 +488,51 @@ Se trata de cómo un color puede evocar emociones. No debe tomarse tan literal.
 - Contexto
 
   Es bueno tratar de seguir la tendencia de colores que se suele usar para ciertas aplicaciones, como el rojo para notificaciones o cosas de urgencia, o errores de input, etc.
+
+### Tipografía
+
+El texto más allá de comunicar información permite dar sentimientos, llevar una narrativa y apegarse más al concepto.
+
+![](.\etc\tipo1.PNG)
+
+![](.\etc\tipo2.PNG)
+
+#### Selección de Tipografías
+
+| Tipo        | Títulos | Texto Impreso | Textos Digital |
+| ----------- | ------- | ------------- | -------------- |
+| Sans Serif  | Sí      | No            | Sí             |
+| Serif       | Sí      | Sí            | No             |
+| Display     | Sí      | No            | No             |
+| Handwritten | Sí      | ...           | ...            |
+| Lettering   | Sí      | ...           | ...            |
+
+- Sans Serif
+
+  Tipografías creadas a partir de geometrías muy limpias, con cortes y acabados limpios.
+
+  ![](.\etc\tipo3.PNG)
+
+- Serif
+
+  Terminaciones ornamentales.
+
+  ![](.\etc\tipo4.PNG)
+
+- Display
+
+  Vertiente de la Sans Serif. Puede dar un poco más de carácter al diseño
+
+  ![](.\etc\tipo5.PNG)
+
+- Handwritten
+
+  Imita letra manuscrita
+
+  ![](.\etc\tipo6.PNG)
+
+- Lettering
+
+  Caligrafía a pulso
+
+  ![](.\etc\tipo7.PNG)
