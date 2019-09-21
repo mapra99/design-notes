@@ -559,7 +559,6 @@ El texto más allá de comunicar información permite dar sentimientos, llevar u
 
   Se debe seleccionar una fuente de acuerdo a lo [mencionado anteriormente](#seleccion_de_tipografias).
 
-  
+## Referencias
 
-
-
+1. [Platzi: Curso de Introducción al Diseño](https://platzi.com/clases/fundamentos-diseno/)
