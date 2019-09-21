@@ -536,3 +536,30 @@ El texto más allá de comunicar información permite dar sentimientos, llevar u
   Caligrafía a pulso
 
   ![](.\etc\tipo7.PNG)
+
+#### Errores Comunes de Composición de Texto
+
+- Interlineado
+
+  Lo recomendable es que el interlineado esté 2 pt más arriba del tamaño de la fuente.
+
+- Tamaño del texto
+
+  El tamaño más pequeño que se debe usar de texto es 8 pt.
+
+- Ríos
+
+  Los ríos son las secuencias formadas por coincidencia por espacios colocados en diferentes líneas de un bloque de texto. Se debe trabajar con el tamaño del texto y el interlineado para tratar de suprimir los ríos.
+
+- Viudas
+
+  Palabras que quedan solas al final de un párrafo, se deberían evitar.
+
+- Selección tipográfica
+
+  Se debe seleccionar una fuente de acuerdo a lo [mencionado anteriormente](#seleccion_de_tipografias).
+
+  
+
+
+
